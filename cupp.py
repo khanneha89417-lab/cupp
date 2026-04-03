@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+https://www.instagram.com/ferihaxwrites?igsh=Z2R2MzB5ZTNzbnA4#!/usr/bin/python3
 #
 #  [Program]
 #
