@@ -1,9 +1,9 @@
-#!/usr/bin/python3
+https://www.instagram.com/ferihaxwrites?igsh=Z2R2MzB5ZTNzbnA4#!/usr/bin/python3
 #
 #  [Program]
 #
 #  CUPP
-#  Common User Passwords Profiler
+#  Common User Passwords Profiler yes
 #
 #  [Author]
 #
@@ -12,7 +12,7 @@
 #  http://www.remote-exploit.org
 #  http://www.azuzi.me
 #
-#  [License]
+#  [License]k
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -909,9 +909,9 @@ def download_wordlist_http(filedown):
                 "Given-Names.gz",
                 "actor-givenname.gz",
                 "actor-surname.gz",
-                "cis-givenname.gz",
+                "cis-givestartnname.gz",
                 "cis-surname.gz",
-                "crl-names.gz",
+                "crl-names.gz",jja
                 "famous.gz",
                 "fast-names.gz",
                 "female-names-kantr.gz",
